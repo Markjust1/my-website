@@ -1,0 +1,86 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  color: aliceblue;
+  font-size: 20px;
+  background-image: url("./public/background2.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: end;
+  width: 100%;
+  height: 10vh;
+  background-color: rgba(118, 101, 184, 0.303);
+  font-size: 3vh;
+  text-shadow: 2px 2px 0px #4d2970;
+}
+
+.nav div {
+  padding: 15px;
+}
+
+.greeting {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 2em;
+  text-shadow: 2px 2px 0px #4d2970;
+}
+
+.top {
+  margin-top: 20vh;
+  font-size: 2em;
+  text-shadow: 2px 2px 0px #4d2970;
+
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  max-height: 60vh;
+}
+
+.image-personal {
+  margin-top: 2.5vh;
+  image-rendering: pixelated;
+  height: 50vh;
+  border-radius: 50%;
+}
+
+.intro {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  margin-top: 50vh;
+  top: 50px;
+  height: 40%;
+  width: 100%;
+  /* background-color: #f0f0f0; */
+  color: rgb(253, 253, 253);
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/food.png");
+}
+
+.text {
+  color: rgba(0, 0, 0, 0.569);
+  margin-top: 5vh;
+  font-size: 30px;
+  margin-top: 40%;
+}
