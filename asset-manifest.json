@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a81aace0.css",
+    "main.js": "/static/js/main.919d4290.js",
+    "static/media/Artem.jpeg": "/static/media/Artem.fad24c6116b5a48b5d49.jpeg",
+    "static/media/jquery.svg": "/static/media/jquery.8fe40021b1cc8b5943bedc0202fca884.svg",
+    "static/media/postgresql.svg": "/static/media/postgresql.8c1124ceba82c3d1118a4c4c11524a55.svg",
+    "static/media/html.svg": "/static/media/html.7aa56dfe420d03601257aaaa7750c3d8.svg",
+    "static/media/css.svg": "/static/media/css.00696949c5f5ff4aa70fdfdb2832c4f9.svg",
+    "static/media/js.svg": "/static/media/js.f77600674b3b3e8976eb679945fc1c2c.svg",
+    "static/media/react.svg": "/static/media/react.f2773f9af487b4db7fa360c3ff244421.svg",
+    "static/media/node.svg": "/static/media/node.a01b3dca88894ac2a12cdeabf24855c6.svg",
+    "static/media/git.svg": "/static/media/git.ba6b9d212d856fcba4e069f210f6eb79.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.f23db79ead4847004dfbc7b4a63a9233.svg",
+    "index.html": "/index.html",
+    "static/media/ruby.svg": "/static/media/ruby.ff0f4f0f6c0269872abd65d2a33bfa16.svg",
+    "main.a81aace0.css.map": "/static/css/main.a81aace0.css.map",
+    "main.919d4290.js.map": "/static/js/main.919d4290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a81aace0.css",
+    "static/js/main.919d4290.js"
+  ]
+}
